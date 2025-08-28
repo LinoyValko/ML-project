@@ -1,4 +1,4 @@
-# ML-project
+# Multi-Class Texture Analysis in Colorectal Cancer Histology
 
 This project focuses on Multi-Class Texture Analysis in Colorectal Cancer Histology using a dataset comprising 5000 histological images of human colorectal cancer. The dataset encompasses 8 different tissue types: 'Tumour epithelium', 'Simple stroma', 'Complex stroma', 'Immune cells', 'Debris', 'Normal mucosal glands', 'Adipose tissue', and 'Background', each with dimensions of (150, 150, 3).
 
